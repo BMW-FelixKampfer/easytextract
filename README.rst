@@ -29,7 +29,7 @@ Then install the following libraries to support the filetypes you want:
 * For PDF, pip install PDFMiner. To get additional features and better PDF extraction, you can install pdftotext, part of poppler or Xpdf.
 * For OCR, you need to install Tesseract >= 3.02 (but not 3.0 nor 4!) and pdftoppm.
 * For DOCX, pip install python-docx2txt.
-* For DOC, install antiword in the location on Windows: C:\antiword\antiword.exe , for Linux and Mac you will need to change the path inside the script.
+* For DOC, install antiword in the location on Windows: C:\\antiword\\antiword.exe , for Linux and Mac you will need to change the path inside the script.
 * to support other types such as audio, see https://textract.readthedocs.io/en/stable/#currently-supporting
 
 WINDOWS
